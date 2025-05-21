@@ -1,0 +1,14 @@
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\bin\Debug\net8.0\SoftuniFundamentals.exe
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\bin\Debug\net8.0\SoftuniFundamentals.deps.json
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\bin\Debug\net8.0\SoftuniFundamentals.runtimeconfig.json
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\bin\Debug\net8.0\SoftuniFundamentals.dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\bin\Debug\net8.0\SoftuniFundamentals.pdb
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\obj\Debug\net8.0\SoftuniFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\obj\Debug\net8.0\SoftuniFundamentals.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\obj\Debug\net8.0\SoftuniFundamentals.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\obj\Debug\net8.0\SoftuniFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\obj\Debug\net8.0\SoftuniFundamentals.dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\obj\Debug\net8.0\refint\SoftuniFundamentals.dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\obj\Debug\net8.0\SoftuniFundamentals.pdb
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\obj\Debug\net8.0\SoftuniFundamentals.genruntimeconfig.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\SoftuniFundamentals\obj\Debug\net8.0\ref\SoftuniFundamentals.dll

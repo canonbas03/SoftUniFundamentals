@@ -1,0 +1,14 @@
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\bin\Debug\net8.0\13.HolidayCount.exe
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\bin\Debug\net8.0\13.HolidayCount.deps.json
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\bin\Debug\net8.0\13.HolidayCount.runtimeconfig.json
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\bin\Debug\net8.0\13.HolidayCount.dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\bin\Debug\net8.0\13.HolidayCount.pdb
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\obj\Debug\net8.0\13.HolidayCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\obj\Debug\net8.0\13.HolidayCount.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\obj\Debug\net8.0\13.HolidayCount.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\obj\Debug\net8.0\13.HolidayCount.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\obj\Debug\net8.0\13.HolidayCount.dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\obj\Debug\net8.0\refint\13.HolidayCount.dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\obj\Debug\net8.0\13.HolidayCount.pdb
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\obj\Debug\net8.0\13.HolidayCount.genruntimeconfig.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\13.HolidayCount\obj\Debug\net8.0\ref\13.HolidayCount.dll

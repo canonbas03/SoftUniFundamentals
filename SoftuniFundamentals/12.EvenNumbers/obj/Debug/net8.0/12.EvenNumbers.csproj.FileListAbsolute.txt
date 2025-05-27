@@ -1,0 +1,14 @@
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\bin\Debug\net8.0\12.EvenNumbers.exe
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\bin\Debug\net8.0\12.EvenNumbers.deps.json
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\bin\Debug\net8.0\12.EvenNumbers.runtimeconfig.json
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\bin\Debug\net8.0\12.EvenNumbers.dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\bin\Debug\net8.0\12.EvenNumbers.pdb
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\obj\Debug\net8.0\12.EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\obj\Debug\net8.0\12.EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\obj\Debug\net8.0\12.EvenNumbers.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\obj\Debug\net8.0\12.EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\obj\Debug\net8.0\12.EvenNumbers.dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\obj\Debug\net8.0\refint\12.EvenNumbers.dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\obj\Debug\net8.0\12.EvenNumbers.pdb
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\obj\Debug\net8.0\12.EvenNumbers.genruntimeconfig.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals\12.EvenNumbers\obj\Debug\net8.0\ref\12.EvenNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\bin\Debug\net8.0\SoftuniFundamentals(BasicSyntax6).exe
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\bin\Debug\net8.0\SoftuniFundamentals(BasicSyntax6).deps.json
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\bin\Debug\net8.0\SoftuniFundamentals(BasicSyntax6).runtimeconfig.json
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\bin\Debug\net8.0\SoftuniFundamentals(BasicSyntax6).dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\bin\Debug\net8.0\SoftuniFundamentals(BasicSyntax6).pdb
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\obj\Debug\net8.0\SoftuniFundamentals(BasicSyntax6).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\obj\Debug\net8.0\SoftuniFundamentals(BasicSyntax6).AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\obj\Debug\net8.0\SoftuniFundamentals(BasicSyntax6).AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\obj\Debug\net8.0\SoftuniFundamentals(BasicSyntax6).csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\obj\Debug\net8.0\SoftuniFundamentals(BasicSyntax6).dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\obj\Debug\net8.0\refint\SoftuniFundamentals(BasicSyntax6).dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\obj\Debug\net8.0\SoftuniFundamentals(BasicSyntax6).pdb
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\obj\Debug\net8.0\SoftuniFundamentals(BasicSyntax6).genruntimeconfig.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\SoftuniFundamentals(BasicSyntax6)\obj\Debug\net8.0\ref\SoftuniFundamentals(BasicSyntax6).dll

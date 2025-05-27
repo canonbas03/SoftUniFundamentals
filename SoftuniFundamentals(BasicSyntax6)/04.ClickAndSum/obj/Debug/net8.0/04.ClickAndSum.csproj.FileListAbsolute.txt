@@ -1,0 +1,14 @@
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\bin\Debug\net8.0\04.ClickAndSum.exe
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\bin\Debug\net8.0\04.ClickAndSum.deps.json
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\bin\Debug\net8.0\04.ClickAndSum.runtimeconfig.json
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\bin\Debug\net8.0\04.ClickAndSum.dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\bin\Debug\net8.0\04.ClickAndSum.pdb
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\obj\Debug\net8.0\04.ClickAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\obj\Debug\net8.0\04.ClickAndSum.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\obj\Debug\net8.0\04.ClickAndSum.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\obj\Debug\net8.0\04.ClickAndSum.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\obj\Debug\net8.0\04.ClickAndSum.dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\obj\Debug\net8.0\refint\04.ClickAndSum.dll
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\obj\Debug\net8.0\04.ClickAndSum.pdb
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\obj\Debug\net8.0\04.ClickAndSum.genruntimeconfig.cache
+C:\Users\MONSTER\source\repos\SoftuniFundamentals(BasicSyntax6)\04.ClickAndSum\obj\Debug\net8.0\ref\04.ClickAndSum.dll

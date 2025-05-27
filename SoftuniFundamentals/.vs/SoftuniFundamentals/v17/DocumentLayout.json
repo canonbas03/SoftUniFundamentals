@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D08A31-1988-4562-A3ED-0664C37CB6A5}|13.HolidayCount\\13.HolidayCount.csproj|c:\\users\\monster\\source\\repos\\softunifundamentals\\13.holidaycount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D08A31-1988-4562-A3ED-0664C37CB6A5}|13.HolidayCount\\13.HolidayCount.csproj|solutionrelative:13.holidaycount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF16F62-A109-4902-832A-7A1E709AB578}|12.EvenNumbers\\12.EvenNumbers.csproj|c:\\users\\monster\\source\\repos\\softunifundamentals\\12.evennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF16F62-A109-4902-832A-7A1E709AB578}|12.EvenNumbers\\12.EvenNumbers.csproj|solutionrelative:12.evennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D36007-8F20-4C0D-8EFB-9E9213D9D8B6}|11.MultiplicationV2\\11.MultiplicationV2.csproj|c:\\users\\monster\\source\\repos\\softunifundamentals\\11.multiplicationv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D36007-8F20-4C0D-8EFB-9E9213D9D8B6}|11.MultiplicationV2\\11.MultiplicationV2.csproj|solutionrelative:11.multiplicationv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals\\13.HolidayCount\\Program.cs",
+              "RelativeDocumentMoniker": "13.HolidayCount\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals\\13.HolidayCount\\Program.cs",
+              "RelativeToolTip": "13.HolidayCount\\Program.cs",
+              "ViewState": "AQIAABMAAACAZmZmZmYTwCAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:10:06.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals\\12.EvenNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "12.EvenNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals\\12.EvenNumbers\\Program.cs",
+              "RelativeToolTip": "12.EvenNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:02:58.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals\\11.MultiplicationV2\\Program.cs",
+              "RelativeDocumentMoniker": "11.MultiplicationV2\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals\\11.MultiplicationV2\\Program.cs",
+              "RelativeToolTip": "11.MultiplicationV2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:55:22.764Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

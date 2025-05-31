@@ -34,3 +34,8 @@ desktop.ini
 
 # Rider/JetBrains (if you ever use it)
 .idea/
+
+*.suo
+*.sln.docstates
+DocumentLayout/
+

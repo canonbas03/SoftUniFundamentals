@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Orders", "11.Orders\11.O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M01.SortNumbers", "M01.SortNumbers\M01.SortNumbers.csproj", "{8D7F6B8E-7C88-41A1-975C-472EB41C71ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M02.EnglishNameLastDigit", "M02.EnglishNameLastDigit\M02.EnglishNameLastDigit.csproj", "{FF242D16-CDA8-49EB-975D-CFF237A433D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{8D7F6B8E-7C88-41A1-975C-472EB41C71ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D7F6B8E-7C88-41A1-975C-472EB41C71ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D7F6B8E-7C88-41A1-975C-472EB41C71ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF242D16-CDA8-49EB-975D-CFF237A433D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF242D16-CDA8-49EB-975D-CFF237A433D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF242D16-CDA8-49EB-975D-CFF237A433D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF242D16-CDA8-49EB-975D-CFF237A433D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

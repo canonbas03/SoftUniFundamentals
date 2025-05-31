@@ -2,6 +2,15 @@
 bin/
 obj/
 
+# Visual Studio IDE files
+.vs/
+*.suo
+*.cache
+*.user
+*.userosscache
+*.sln.docstates
+*.v2/
+
 # User-specific files
 *.user
 *.suo

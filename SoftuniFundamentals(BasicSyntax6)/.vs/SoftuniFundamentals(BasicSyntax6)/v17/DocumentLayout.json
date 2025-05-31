@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\",
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18FFBEFB-17E7-4FFE-909E-3743E3080DBC}|07.VendingMachine\\07.VendingMachine.csproj|c:\\users\\monster\\source\\repos\\softunifundamentals(basicsyntax6)\\07.vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\08.NumTriangle\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:08.NumTriangle\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FFBEFB-17E7-4FFE-909E-3743E3080DBC}|07.VendingMachine\\07.VendingMachine.csproj|c:\\users\\monster\\source\\repos\\sufundamentalsmain\\softunifundamentals(basicsyntax6)\\07.vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18FFBEFB-17E7-4FFE-909E-3743E3080DBC}|07.VendingMachine\\07.VendingMachine.csproj|solutionrelative:07.vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04924920-CFB4-403A-A568-F69AF3142C81}|06.StrongNumber\\06.StrongNumber.csproj|c:\\users\\monster\\source\\repos\\softunifundamentals(basicsyntax6)\\06.strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04924920-CFB4-403A-A568-F69AF3142C81}|06.StrongNumber\\06.StrongNumber.csproj|c:\\users\\monster\\source\\repos\\sufundamentalsmain\\softunifundamentals(basicsyntax6)\\06.strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04924920-CFB4-403A-A568-F69AF3142C81}|06.StrongNumber\\06.StrongNumber.csproj|solutionrelative:06.strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB677DD6-5210-461A-A2C4-700D0DE16957}|05.Login\\05.Login.csproj|c:\\users\\monster\\source\\repos\\softunifundamentals(basicsyntax6)\\05.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB677DD6-5210-461A-A2C4-700D0DE16957}|05.Login\\05.Login.csproj|c:\\users\\monster\\source\\repos\\sufundamentalsmain\\softunifundamentals(basicsyntax6)\\05.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB677DD6-5210-461A-A2C4-700D0DE16957}|05.Login\\05.Login.csproj|solutionrelative:05.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8FD4CA6-D25D-42CD-81ED-CDDE05F287DB}|04.ClickAndSum\\04.ClickAndSum.csproj|c:\\users\\monster\\source\\repos\\softunifundamentals(basicsyntax6)\\04.clickandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8FD4CA6-D25D-42CD-81ED-CDDE05F287DB}|04.ClickAndSum\\04.ClickAndSum.csproj|c:\\users\\monster\\source\\repos\\sufundamentalsmain\\softunifundamentals(basicsyntax6)\\04.clickandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8FD4CA6-D25D-42CD-81ED-CDDE05F287DB}|04.ClickAndSum\\04.ClickAndSum.csproj|solutionrelative:04.clickandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1C4B83D-B576-42A2-8C6F-C5ABEB92EF3C}|03.Vacation\\03.Vacation.csproj|c:\\users\\monster\\source\\repos\\softunifundamentals(basicsyntax6)\\03.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1C4B83D-B576-42A2-8C6F-C5ABEB92EF3C}|03.Vacation\\03.Vacation.csproj|c:\\users\\monster\\source\\repos\\sufundamentalsmain\\softunifundamentals(basicsyntax6)\\03.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1C4B83D-B576-42A2-8C6F-C5ABEB92EF3C}|03.Vacation\\03.Vacation.csproj|solutionrelative:03.vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{791A0A39-E46E-456E-9D46-75F9374D774B}|02.Division\\02.Division.csproj|c:\\users\\monster\\source\\repos\\softunifundamentals(basicsyntax6)\\02.division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{791A0A39-E46E-456E-9D46-75F9374D774B}|02.Division\\02.Division.csproj|c:\\users\\monster\\source\\repos\\sufundamentalsmain\\softunifundamentals(basicsyntax6)\\02.division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{791A0A39-E46E-456E-9D46-75F9374D774B}|02.Division\\02.Division.csproj|solutionrelative:02.division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74A31F77-D6E9-486D-BC64-A1D1726834FE}|SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6).csproj|c:\\users\\monster\\source\\repos\\softunifundamentals(basicsyntax6)\\softunifundamentals(basicsyntax6)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74A31F77-D6E9-486D-BC64-A1D1726834FE}|SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6).csproj|c:\\users\\monster\\source\\repos\\sufundamentalsmain\\softunifundamentals(basicsyntax6)\\softunifundamentals(basicsyntax6)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74A31F77-D6E9-486D-BC64-A1D1726834FE}|SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6).csproj|solutionrelative:softunifundamentals(basicsyntax6)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +48,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\07.VendingMachine\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\08.NumTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "08.NumTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\08.NumTriangle\\Program.cs",
+              "RelativeToolTip": "08.NumTriangle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:28:31.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\07.VendingMachine\\Program.cs",
               "RelativeDocumentMoniker": "07.VendingMachine\\Program.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\07.VendingMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\07.VendingMachine\\Program.cs",
               "RelativeToolTip": "07.VendingMachine\\Program.cs",
               "ViewState": "AQIAABYAAACAZmZmZuYjwAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\06.StrongNumber\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\06.StrongNumber\\Program.cs",
               "RelativeDocumentMoniker": "06.StrongNumber\\Program.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\06.StrongNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\06.StrongNumber\\Program.cs",
               "RelativeToolTip": "06.StrongNumber\\Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAswCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,11 +84,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\05.Login\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\05.Login\\Program.cs",
               "RelativeDocumentMoniker": "05.Login\\Program.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\05.Login\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\05.Login\\Program.cs",
               "RelativeToolTip": "05.Login\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAwwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\04.ClickAndSum\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\04.ClickAndSum\\Program.cs",
               "RelativeDocumentMoniker": "04.ClickAndSum\\Program.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\04.ClickAndSum\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\04.ClickAndSum\\Program.cs",
               "RelativeToolTip": "04.ClickAndSum\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,11 +108,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\03.Vacation\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\03.Vacation\\Program.cs",
               "RelativeDocumentMoniker": "03.Vacation\\Program.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\03.Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\03.Vacation\\Program.cs",
               "RelativeToolTip": "03.Vacation\\Program.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAwwFYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\02.Division\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\02.Division\\Program.cs",
               "RelativeDocumentMoniker": "02.Division\\Program.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\02.Division\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\02.Division\\Program.cs",
               "RelativeToolTip": "02.Division\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAswCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6)\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6)\\Program.cs",
               "RelativeDocumentMoniker": "SoftuniFundamentals(BasicSyntax6)\\Program.cs",
-              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6)\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6)\\Program.cs",
               "RelativeToolTip": "SoftuniFundamentals(BasicSyntax6)\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

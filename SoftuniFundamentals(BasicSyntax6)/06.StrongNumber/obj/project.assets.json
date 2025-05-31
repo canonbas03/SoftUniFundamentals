@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\06.StrongNumber\\06.StrongNumber.csproj",
+      "projectUniqueName": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\06.StrongNumber\\06.StrongNumber.csproj",
       "projectName": "06.StrongNumber",
-      "projectPath": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\06.StrongNumber\\06.StrongNumber.csproj",
+      "projectPath": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\06.StrongNumber\\06.StrongNumber.csproj",
       "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\06.StrongNumber\\obj\\",
+      "outputPath": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\06.StrongNumber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

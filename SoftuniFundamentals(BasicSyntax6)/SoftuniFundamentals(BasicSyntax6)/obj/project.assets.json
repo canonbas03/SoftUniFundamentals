@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6).csproj",
+      "projectUniqueName": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6).csproj",
       "projectName": "SoftuniFundamentals(BasicSyntax6)",
-      "projectPath": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6).csproj",
+      "projectPath": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6).csproj",
       "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MONSTER\\source\\repos\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6)\\obj\\",
+      "outputPath": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

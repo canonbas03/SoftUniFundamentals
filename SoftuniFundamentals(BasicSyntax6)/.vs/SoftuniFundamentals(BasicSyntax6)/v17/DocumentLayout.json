@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22C5168F-EBD7-49AF-A96E-29E51977DFA8}|08.NumberTriangle\\08.NumberTriangle.csproj|c:\\users\\monster\\source\\repos\\sufundamentalsmain\\softunifundamentals(basicsyntax6)\\08.numbertriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5168F-EBD7-49AF-A96E-29E51977DFA8}|08.NumberTriangle\\08.NumberTriangle.csproj|solutionrelative:08.numbertriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\08.NumTriangle\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:08.NumTriangle\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -48,18 +52,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\08.NumberTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "08.NumberTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\08.NumberTriangle\\Program.cs",
+              "RelativeToolTip": "08.NumberTriangle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:30:47.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\08.NumTriangle\\Program.cs",
               "RelativeDocumentMoniker": "08.NumTriangle\\Program.cs",
               "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\08.NumTriangle\\Program.cs",
               "RelativeToolTip": "08.NumTriangle\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T09:28:31.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\07.VendingMachine\\Program.cs",
               "RelativeDocumentMoniker": "07.VendingMachine\\Program.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\06.StrongNumber\\Program.cs",
               "RelativeDocumentMoniker": "06.StrongNumber\\Program.cs",
@@ -84,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\05.Login\\Program.cs",
               "RelativeDocumentMoniker": "05.Login\\Program.cs",
@@ -96,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\04.ClickAndSum\\Program.cs",
               "RelativeDocumentMoniker": "04.ClickAndSum\\Program.cs",
@@ -108,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\03.Vacation\\Program.cs",
               "RelativeDocumentMoniker": "03.Vacation\\Program.cs",
@@ -120,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\02.Division\\Program.cs",
               "RelativeDocumentMoniker": "02.Division\\Program.cs",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\SUFundamentalsMain\\SoftuniFundamentals(BasicSyntax6)\\SoftuniFundamentals(BasicSyntax6)\\Program.cs",
               "RelativeDocumentMoniker": "SoftuniFundamentals(BasicSyntax6)\\Program.cs",

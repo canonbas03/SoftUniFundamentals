@@ -1,4 +1,4 @@
-# Build results
+# Build Folders
 bin/
 obj/
 
@@ -10,11 +10,27 @@ obj/
 
 # Visual Studio cache
 .vs/
+*.VC.db
+*.VC.opendb
 
-# Rider (if you're using JetBrains Rider too)
-.idea/
-
-# Others
+# Backup & cache files
+*.cache
 *.log
-*.DS_Store
+
+# Auto-generated files
+Generated\ Files/
+AssemblyInfo.cs
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# OS-specific files
+.DS_Store
 Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Rider/JetBrains (if you ever use it)
+.idea/

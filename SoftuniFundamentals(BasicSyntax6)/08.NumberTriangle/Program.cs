@@ -15,7 +15,7 @@
 					Console.Write(rowCount + " ");
 				}
 				rowCount++;
-				Console.WriteLine("Hel");
+				Console.WriteLine(" ");
 			}
 		}
 	}

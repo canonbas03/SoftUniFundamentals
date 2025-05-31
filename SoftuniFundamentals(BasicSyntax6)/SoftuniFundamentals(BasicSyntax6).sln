@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.RageExpenses", "09.RageE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Orders", "11.Orders\11.Orders.csproj", "{A54E5A86-1993-4530-BA2E-1308823D44E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M01.SortNumbers", "M01.SortNumbers\M01.SortNumbers.csproj", "{8D7F6B8E-7C88-41A1-975C-472EB41C71ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A54E5A86-1993-4530-BA2E-1308823D44E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A54E5A86-1993-4530-BA2E-1308823D44E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A54E5A86-1993-4530-BA2E-1308823D44E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7F6B8E-7C88-41A1-975C-472EB41C71ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7F6B8E-7C88-41A1-975C-472EB41C71ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7F6B8E-7C88-41A1-975C-472EB41C71ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7F6B8E-7C88-41A1-975C-472EB41C71ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

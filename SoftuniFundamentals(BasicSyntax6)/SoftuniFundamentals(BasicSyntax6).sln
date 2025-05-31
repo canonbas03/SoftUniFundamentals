@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M01.SortNumbers", "M01.Sort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M02.EnglishNameLastDigit", "M02.EnglishNameLastDigit\M02.EnglishNameLastDigit.csproj", "{FF242D16-CDA8-49EB-975D-CFF237A433D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M03.Games", "M03.Games\M03.Games.csproj", "{D494DD22-62B1-4794-9952-B834168C1EFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{FF242D16-CDA8-49EB-975D-CFF237A433D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF242D16-CDA8-49EB-975D-CFF237A433D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF242D16-CDA8-49EB-975D-CFF237A433D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D494DD22-62B1-4794-9952-B834168C1EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D494DD22-62B1-4794-9952-B834168C1EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D494DD22-62B1-4794-9952-B834168C1EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D494DD22-62B1-4794-9952-B834168C1EFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

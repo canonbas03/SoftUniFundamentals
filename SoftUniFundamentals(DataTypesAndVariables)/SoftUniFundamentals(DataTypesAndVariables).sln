@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniFundamentals(DataTypesAndVariables)", "SoftUniFundamentals(DataTypesAndVariables).csproj", "{83E86E95-722E-44B0-8D6C-6CC3A406A1A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUniFundamentals(DataTypesAndVariables)", "SoftUniFundamentals(DataTypesAndVariables).csproj", "{83E86E95-722E-44B0-8D6C-6CC3A406A1A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MetersToKm", "..\01.MetersToKm\01.MetersToKm.csproj", "{D1D686CF-E2C7-43A5-B0D1-2546149F4BEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.MetersToKm", "..\01.MetersToKm\01.MetersToKm.csproj", "{D1D686CF-E2C7-43A5-B0D1-2546149F4BEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PoundsToDollars", "..\02.PoundsToDollars\02.PoundsToDollars.csproj", "{BAEB038B-25A7-4697-9BDD-6247AE096AA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.PoundsToDollars", "..\02.PoundsToDollars\02.PoundsToDollars.csproj", "{BAEB038B-25A7-4697-9BDD-6247AE096AA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExactSumOfRNumbers", "..\03.ExactSumOfRNumbers\03.ExactSumOfRNumbers.csproj", "{2ADF3B34-7F52-4EA3-A5DB-8B8FE24746A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ExactSumOfRNumbers", "..\03.ExactSumOfRNumbers\03.ExactSumOfRNumbers.csproj", "{2ADF3B34-7F52-4EA3-A5DB-8B8FE24746A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CenturiesToMinutes", "..\04.CenturiesToMinutes\04.CenturiesToMinutes.csproj", "{0CE2EC88-A01D-4784-BB95-985C5D086D77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.CenturiesToMinutes", "..\04.CenturiesToMinutes\04.CenturiesToMinutes.csproj", "{0CE2EC88-A01D-4784-BB95-985C5D086D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SpecialNumbers", "..\05.SpecialNumbers\05.SpecialNumbers.csproj", "{079F8856-AD61-4E23-A1CE-36A925F52F77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{0CE2EC88-A01D-4784-BB95-985C5D086D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CE2EC88-A01D-4784-BB95-985C5D086D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CE2EC88-A01D-4784-BB95-985C5D086D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{079F8856-AD61-4E23-A1CE-36A925F52F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079F8856-AD61-4E23-A1CE-36A925F52F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079F8856-AD61-4E23-A1CE-36A925F52F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079F8856-AD61-4E23-A1CE-36A925F52F77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

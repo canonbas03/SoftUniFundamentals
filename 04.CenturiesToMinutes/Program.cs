@@ -4,15 +4,15 @@
 	{
 		static void Main(string[] args)
 		{
-			uint yearIndex = 100;
-			double dayIndex = 365.2422;
-			sbyte hourIndex = 24;
-			sbyte minuteIndex = 60;
+			uint centuries = uint.Parse(Console.ReadLine());
 
-			int centuries = int.Parse(Console.ReadLine());
+			uint years = (uint)(centuries * 100);
+			uint days = (uint)(years * 365.2422);
+			uint hours = (uint)(days * 24);
+			uint minutes = (uint)(hours * 60);
 
-			Console.WriteLine($"{centuries} centuries = {centuries * yearIndex} years = {(int)(centuries * yearIndex * dayIndex)} " +
-				$"days = {(int)(centuries * yearIndex * dayIndex * hourIndex)} hours = {(int)(centuries * yearIndex * dayIndex * hourIndex * minuteIndex)} minutes");
+			Console.WriteLine($"{centuries} centuries = {years} years = {days} " +
+				$"days = {hours} hours = {minutes} minutes");
 		}
 	}
 }

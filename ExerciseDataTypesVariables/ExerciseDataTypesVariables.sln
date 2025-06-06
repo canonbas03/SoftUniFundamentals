@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseDataTypesVariables", "ExerciseDataTypesVariables.csproj", "{6B50C2F7-2EEF-47D9-BBE4-91BE6530F8A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseDataTypesVariables", "ExerciseDataTypesVariables.csproj", "{6B50C2F7-2EEF-47D9-BBE4-91BE6530F8A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.IntegerOperations", "..\01.IntegerOperations\01.IntegerOperations.csproj", "{DCF4F507-A5BB-4298-A853-8327BFAC0F34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.IntegerOperations", "..\01.IntegerOperations\01.IntegerOperations.csproj", "{DCF4F507-A5BB-4298-A853-8327BFAC0F34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SumOfDigits", "..\02.SumOfDigits\02.SumOfDigits.csproj", "{60BB9BE5-2D4F-492C-A5C7-74111F387B8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SumOfDigits", "..\02.SumOfDigits\02.SumOfDigits.csproj", "{60BB9BE5-2D4F-492C-A5C7-74111F387B8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Elevator", "..\03.Elevator\03.Elevator.csproj", "{1AB0888B-B686-461C-9297-D3A3F7A9CD34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Elevator", "..\03.Elevator\03.Elevator.csproj", "{1AB0888B-B686-461C-9297-D3A3F7A9CD34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SumOfChars", "..\04.SumOfChars\04.SumOfChars.csproj", "{D26558F2-4927-4EF2-8263-97C6AB13ED17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintPartOfASCII", "..\05.PrintPartOfASCII\05.PrintPartOfASCII.csproj", "{10ECCAE1-0A67-4A4E-994A-177EC607E025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TriplesOfLatinLetters", "..\06.TriplesOfLatinLetters\06.TriplesOfLatinLetters.csproj", "{A1FAE4AF-5BEB-41F8-8721-097CA42BF8E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{1AB0888B-B686-461C-9297-D3A3F7A9CD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AB0888B-B686-461C-9297-D3A3F7A9CD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AB0888B-B686-461C-9297-D3A3F7A9CD34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26558F2-4927-4EF2-8263-97C6AB13ED17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26558F2-4927-4EF2-8263-97C6AB13ED17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26558F2-4927-4EF2-8263-97C6AB13ED17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26558F2-4927-4EF2-8263-97C6AB13ED17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10ECCAE1-0A67-4A4E-994A-177EC607E025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10ECCAE1-0A67-4A4E-994A-177EC607E025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10ECCAE1-0A67-4A4E-994A-177EC607E025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10ECCAE1-0A67-4A4E-994A-177EC607E025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1FAE4AF-5BEB-41F8-8721-097CA42BF8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FAE4AF-5BEB-41F8-8721-097CA42BF8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FAE4AF-5BEB-41F8-8721-097CA42BF8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FAE4AF-5BEB-41F8-8721-097CA42BF8E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

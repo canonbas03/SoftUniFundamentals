@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReversedChars", "..\06.R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ContactNames1", "..\07.ContactNames1\07.ContactNames1.csproj", "{E41FC458-5771-4A11-9836-E7568C166E82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.TownInfo", "..\08.TownInfo\08.TownInfo.csproj", "{79785EFB-710F-4301-B483-712B59CB3A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.CharToString", "..\09.CharToString\09.CharToString.csproj", "{CA84744E-82ED-435C-9F94-F5CB5006E609}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{E41FC458-5771-4A11-9836-E7568C166E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E41FC458-5771-4A11-9836-E7568C166E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E41FC458-5771-4A11-9836-E7568C166E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79785EFB-710F-4301-B483-712B59CB3A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79785EFB-710F-4301-B483-712B59CB3A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79785EFB-710F-4301-B483-712B59CB3A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79785EFB-710F-4301-B483-712B59CB3A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA84744E-82ED-435C-9F94-F5CB5006E609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA84744E-82ED-435C-9F94-F5CB5006E609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA84744E-82ED-435C-9F94-F5CB5006E609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA84744E-82ED-435C-9F94-F5CB5006E609}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

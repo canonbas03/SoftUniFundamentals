@@ -19,7 +19,7 @@ namespace _07.EqualArrays
 				}
 				else
 				{
-					Console.WriteLine($"Arrays are not identical. Found difference at {i - 1} index");
+					Console.WriteLine($"Arrays are not identical. Found difference at {i} index");
 					Environment.Exit(0);
 				}
 			}

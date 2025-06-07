@@ -11,17 +11,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SumOfDigits", "..\02.Sum
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Elevator", "..\03.Elevator\03.Elevator.csproj", "{1AB0888B-B686-461C-9297-D3A3F7A9CD34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SumOfChars", "..\04.SumOfChars\04.SumOfChars.csproj", "{D26558F2-4927-4EF2-8263-97C6AB13ED17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SumOfChars", "..\04.SumOfChars\04.SumOfChars.csproj", "{D26558F2-4927-4EF2-8263-97C6AB13ED17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PrintPartOfASCII", "..\05.PrintPartOfASCII\05.PrintPartOfASCII.csproj", "{10ECCAE1-0A67-4A4E-994A-177EC607E025}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.PrintPartOfASCII", "..\05.PrintPartOfASCII\05.PrintPartOfASCII.csproj", "{10ECCAE1-0A67-4A4E-994A-177EC607E025}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TriplesOfLatinLetters", "..\06.TriplesOfLatinLetters\06.TriplesOfLatinLetters.csproj", "{A1FAE4AF-5BEB-41F8-8721-097CA42BF8E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.TriplesOfLatinLetters", "..\06.TriplesOfLatinLetters\06.TriplesOfLatinLetters.csproj", "{A1FAE4AF-5BEB-41F8-8721-097CA42BF8E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.WaterFlow", "..\07.WaterFlow\07.WaterFlow.csproj", "{A8DA3975-1911-4A70-81E0-7958BC7F80AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.WaterFlow", "..\07.WaterFlow\07.WaterFlow.csproj", "{A8DA3975-1911-4A70-81E0-7958BC7F80AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.BeerKegs", "..\08.BeerKegs\08.BeerKegs.csproj", "{71080C90-B869-4955-BE43-FEC516AA8E2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.BeerKegs", "..\08.BeerKegs\08.BeerKegs.csproj", "{71080C90-B869-4955-BE43-FEC516AA8E2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SpiceMustFlow", "..\09.SpiceMustFlow\09.SpiceMustFlow.csproj", "{54F81DAF-9F58-4F0E-A4F2-94C26E33995E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.SpiceMustFlow", "..\09.SpiceMustFlow\09.SpiceMustFlow.csproj", "{54F81DAF-9F58-4F0E-A4F2-94C26E33995E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M01.DataTypeFinder", "..\M01.DataTypeFinder\M01.DataTypeFinder.csproj", "{E31AE101-6294-4304-8B24-D71B8930F8B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M02.FromLeftToRight", "..\M02.FromLeftToRight\M02.FromLeftToRight.csproj", "{51EA38D7-AD43-4EB4-A10D-BE3D98E0E985}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{54F81DAF-9F58-4F0E-A4F2-94C26E33995E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54F81DAF-9F58-4F0E-A4F2-94C26E33995E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54F81DAF-9F58-4F0E-A4F2-94C26E33995E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31AE101-6294-4304-8B24-D71B8930F8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31AE101-6294-4304-8B24-D71B8930F8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31AE101-6294-4304-8B24-D71B8930F8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31AE101-6294-4304-8B24-D71B8930F8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51EA38D7-AD43-4EB4-A10D-BE3D98E0E985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EA38D7-AD43-4EB4-A10D-BE3D98E0E985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EA38D7-AD43-4EB4-A10D-BE3D98E0E985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EA38D7-AD43-4EB4-A10D-BE3D98E0E985}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

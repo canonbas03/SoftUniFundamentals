@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M01.DataTypeFinder", "..\M0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M02.FromLeftToRight", "..\M02.FromLeftToRight\M02.FromLeftToRight.csproj", "{51EA38D7-AD43-4EB4-A10D-BE3D98E0E985}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M03.FloatingArythmethics", "..\M03.FloatingArythmethics\M03.FloatingArythmethics.csproj", "{B71CA942-AFD9-482A-820B-6DF9E34BF8D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{51EA38D7-AD43-4EB4-A10D-BE3D98E0E985}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51EA38D7-AD43-4EB4-A10D-BE3D98E0E985}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51EA38D7-AD43-4EB4-A10D-BE3D98E0E985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71CA942-AFD9-482A-820B-6DF9E34BF8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71CA942-AFD9-482A-820B-6DF9E34BF8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71CA942-AFD9-482A-820B-6DF9E34BF8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71CA942-AFD9-482A-820B-6DF9E34BF8D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M03.FloatingArythmethics", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M04.RefactoringPrimeChecker", "..\M04.RefactoringPrimeChecker\M04.RefactoringPrimeChecker.csproj", "{8B8F8032-213E-4D09-A227-BFDD7026F1E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M05.DecryptingMessages", "..\M05.DecryptingMessages\M05.DecryptingMessages.csproj", "{88481B7B-F69B-42E3-84E8-50C07C1987FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{8B8F8032-213E-4D09-A227-BFDD7026F1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B8F8032-213E-4D09-A227-BFDD7026F1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B8F8032-213E-4D09-A227-BFDD7026F1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88481B7B-F69B-42E3-84E8-50C07C1987FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88481B7B-F69B-42E3-84E8-50C07C1987FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88481B7B-F69B-42E3-84E8-50C07C1987FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88481B7B-F69B-42E3-84E8-50C07C1987FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

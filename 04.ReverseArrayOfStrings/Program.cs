@@ -15,7 +15,7 @@
 
 			foreach (string str in stringArr)
 			{
-				Console.Write(str);
+				Console.Write(str + " ");
 			}
 		}
 	}

@@ -15,7 +15,7 @@ namespace _05.TopIntegers
 				for (int j = i + 1; j < numbers.Length; j++)
 				{
 					int current = numbers[i], compare = numbers[j];
-					if (numbers[i] < numbers[j])
+					if (numbers[i] <= numbers[j])
 					{
 						isTop = false;
 						break;

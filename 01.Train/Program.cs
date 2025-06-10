@@ -17,7 +17,7 @@ namespace _01.Train
 			}
 
             Console.WriteLine(string.Join(" ", passengers));
-            Console.WriteLine();
+            Console.WriteLine(total);
         }
 	}
 }

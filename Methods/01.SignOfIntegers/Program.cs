@@ -1,6 +1,4 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace _01.SignOfIntegers
+﻿namespace _01.SignOfIntegers
 {
 	internal class Program
 	{

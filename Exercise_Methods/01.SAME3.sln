@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AddAndSubtract", "05.Add
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MiddleCharacters", "06.MiddleCharacters\06.MiddleCharacters.csproj", "{8E8C36E2-9690-47B5-9998-2B98E5E29CE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.NxNMatrics", "07.NxNMatrics\07.NxNMatrics.csproj", "{83CD1458-0EE3-4134-AAB7-A874261C31E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8E8C36E2-9690-47B5-9998-2B98E5E29CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E8C36E2-9690-47B5-9998-2B98E5E29CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E8C36E2-9690-47B5-9998-2B98E5E29CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CD1458-0EE3-4134-AAB7-A874261C31E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CD1458-0EE3-4134-AAB7-A874261C31E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CD1458-0EE3-4134-AAB7-A874261C31E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CD1458-0EE3-4134-AAB7-A874261C31E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

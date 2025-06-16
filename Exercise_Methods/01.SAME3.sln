@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Same3", "Exercise_Method
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.VowelsCount", "02.VowelsCount\02.VowelsCount.csproj", "{242019F6-8D72-4D77-B706-A1E7B38D1AA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CharsInRange", "03.CharsInRange\03.CharsInRange.csproj", "{8FF8C056-F4AD-4577-A0E2-EC17BF47555C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{242019F6-8D72-4D77-B706-A1E7B38D1AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{242019F6-8D72-4D77-B706-A1E7B38D1AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{242019F6-8D72-4D77-B706-A1E7B38D1AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FF8C056-F4AD-4577-A0E2-EC17BF47555C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF8C056-F4AD-4577-A0E2-EC17BF47555C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF8C056-F4AD-4577-A0E2-EC17BF47555C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF8C056-F4AD-4577-A0E2-EC17BF47555C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,21 +5,21 @@ namespace _08.FactorialDivision
     {
         static void Main(string[] args)
         {
-            int number1 = int.Parse(Console.ReadLine());
-            int number2 = int.Parse(Console.ReadLine());
+            long number1 = long.Parse(Console.ReadLine());
+            long number2 = long.Parse(Console.ReadLine());
 
             double result = Factorial(number1) / Factorial(number2);
             Console.WriteLine($"{result:f2}");
         }
 
-        private static int Factorial(int number)
+        private static double Factorial(long number)
         {
-            int result = 1;
-            for (int i = number; i > 0; i--) 
+            double factorial = number;
+            for (long i = number -1; i > 0; i--) 
             {
-                result *= i;
+                factorial *= i;
             }
-            return result;
+            return factorial;
         }
     }
 }

@@ -30,6 +30,7 @@
                     list.Insert(elementPos, elementToInsert);
                 }
             }
+            Console.WriteLine(string.Join(" ",list));
         }
     }
 }

@@ -15,6 +15,7 @@
 
                 finalList.AddRange(partList);
             }
+            Console.WriteLine(string.Join(" ", finalList));
         }
     }
 }

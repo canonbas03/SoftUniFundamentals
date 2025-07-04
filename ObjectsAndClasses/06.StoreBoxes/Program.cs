@@ -35,8 +35,8 @@
 
                     //-- ${ boxPrice}
                     Console.WriteLine(box.SerialNumber);
-                    Console.WriteLine($"-- {box.Item.Name} - ${box.Item.Price}: {box.Quantity}");
-                    Console.WriteLine($"-- ${box.Price}");
+                    Console.WriteLine($"-- {box.Item.Name} - ${box.Item.Price:f2}: {box.Quantity}");
+                    Console.WriteLine($"-- ${box.Price:f2}");
                 }
 
             }

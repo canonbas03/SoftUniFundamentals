@@ -10,9 +10,9 @@ ChangeAuthor: Chuck Palahniuk
     {
         static void Main(string[] args)
         {
-            string[] initialValues = Console.ReadLine().Split();
+            string[] initialValues = Console.ReadLine().Split(", ");
 
-            Article article = new Article();
+            Article article = new Article(initialValues[0], initialValues[1], initialValues[2]);
             article.Title = initialValues[0];
             article.Content = initialValues[1];
             article.Author = initialValues[2];
@@ -24,15 +24,15 @@ ChangeAuthor: Chuck Palahniuk
 
                 if (commands[0] == "Edit")
                 {
-                    article.Content = commands[1];
+                    article.Edit(commands[1]);
                 }
                 else if (commands[0] == "ChangeAuthor")
                 {
-                    article.Author = commands[1];
+                    article.ChangeAuthor(commands[1]);
                 }
                 else
                 {
-                    article.Title = commands[1];
+                    article.Rename(commands[1]);
                 }
             }
             Console.WriteLine(article);
@@ -50,9 +50,24 @@ ChangeAuthor: Chuck Palahniuk
         public string Content { get; set; }
         public string Author { get; set; }
 
-        public static void Edit(string newContent)
+        public Article(string title, string content, string author)
         {
+            Title = title;
+            Content = content;
+            Author = author;
+        }
 
+        public void Edit(string newContent)
+        {
+            Content = newContent;
+        }
+        public void ChangeAuthor(string newAuthor)
+        {
+            Author = newAuthor;
+        }
+        public void Rename(string newName)
+        {
+            Title = newName;
         }
     }
 }

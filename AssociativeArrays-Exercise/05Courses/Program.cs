@@ -21,7 +21,10 @@
             foreach (KeyValuePair<string, List<string>> pair in courseStudents)
             {
                 Console.WriteLine($"{pair.Key}: {pair.Value.Count}");
-                Console.WriteLine(string.Join("\n",pair.Value));
+                foreach (string student in pair.Value)
+                {
+                    Console.WriteLine($"-- {student}");
+                }
             }
         }
     }

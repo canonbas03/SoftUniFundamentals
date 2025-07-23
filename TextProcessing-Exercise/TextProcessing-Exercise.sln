@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MultiplyBigNumber", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExtractFile", "..\03.ExtractFile\03.ExtractFile.csproj", "{763496DE-5C7B-428A-9EF8-9CAD0F61445D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CaesarCipher", "..\04.CaesarCipher\04.CaesarCipher.csproj", "{B7BEBE4F-22C1-4293-B442-483CA67B7682}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{763496DE-5C7B-428A-9EF8-9CAD0F61445D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{763496DE-5C7B-428A-9EF8-9CAD0F61445D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{763496DE-5C7B-428A-9EF8-9CAD0F61445D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7BEBE4F-22C1-4293-B442-483CA67B7682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BEBE4F-22C1-4293-B442-483CA67B7682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BEBE4F-22C1-4293-B442-483CA67B7682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BEBE4F-22C1-4293-B442-483CA67B7682}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

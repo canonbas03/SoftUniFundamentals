@@ -7,13 +7,18 @@ namespace _02.MatchPhoneNumber
     {
         static void Main(string[] args)
         {
-            string pattern = @"[ ]?\+359([ -])[\d]{1}\1[\d]{3}\1[\d]{4}\b";
+            string pattern = @"[ ]?\+359([ -])2\1[\d]{3}\1[\d]{4}\b";
             string phones = Console.ReadLine();
 
             Regex regex = new Regex(pattern);
             MatchCollection matchCollecton = regex.Matches(phones);
 
-            Console.WriteLine(string.Join(", ",matchCollecton));
+            List<string> trimmedMatches = new();
+            foreach (Match match in matchCollecton)
+            {
+                trimmedMatches.Add(match.Value.Trim());
+            }
+            Console.WriteLine(string.Join(", ", trimmedMatches));
         }
     }
 }

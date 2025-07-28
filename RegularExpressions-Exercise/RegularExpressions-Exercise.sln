@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Furniture", "01.Furnitur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Race", "02.Race\02.Race.csproj", "{96FBF0EC-97A6-481E-91A8-4EFE6BD4E031}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SoftUniBarIncome", "03.SoftUniBarIncome\03.SoftUniBarIncome.csproj", "{335AE49B-44B4-4EF3-B10B-1E486EFCAC3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{96FBF0EC-97A6-481E-91A8-4EFE6BD4E031}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96FBF0EC-97A6-481E-91A8-4EFE6BD4E031}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96FBF0EC-97A6-481E-91A8-4EFE6BD4E031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335AE49B-44B4-4EF3-B10B-1E486EFCAC3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335AE49B-44B4-4EF3-B10B-1E486EFCAC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335AE49B-44B4-4EF3-B10B-1E486EFCAC3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335AE49B-44B4-4EF3-B10B-1E486EFCAC3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

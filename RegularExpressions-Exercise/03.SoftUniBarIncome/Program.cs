@@ -6,7 +6,7 @@ namespace _03.SoftUniBarIncome
     {
         static void Main(string[] args)
         {
-            string pattern = @"\%(?<Customer>[A-Z][a-z]+)\%[^\|\$\.\%]*\<(?<Product>\w+)\>[^\|\$\.\%\d]*\|(?<Quantity>\d+)\|[^\|\$\.\%\d]*(?<Price>\d+|\d+\,\d+)\$";
+            string pattern = @"\%(?<Customer>[A-Z][a-z]+)\%[^\|\$\.\%]*\<(?<Product>\w+)\>[^\|\$\.\%\d]*\|(?<Quantity>\d+)\|[^\|\$\.\%\d]*(?<Price>\d+|\d+\.\d+)\$";
 
             List<Customers> customers = new List<Customers>();
             string input = string.Empty;

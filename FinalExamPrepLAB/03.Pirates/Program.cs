@@ -69,6 +69,10 @@
                 towns[name].Gold += gold;
                 Console.WriteLine($"{gold} gold added to the city treasury. {name} now has {towns[name].Gold} gold.");
             }
+            else
+            {
+                Console.WriteLine("Gold added cannot be a negative number!");
+            }
         }
         private static void Plunder(string name, int population, int gold, Dictionary<string, Town> towns)
         {

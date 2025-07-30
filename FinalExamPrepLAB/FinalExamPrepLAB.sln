@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SecretChat", "01.SecretC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FancyBarcodes", "02.FancyBarcodes\02.FancyBarcodes.csproj", "{FC22CDEC-B98A-4640-A732-E2BB6239FCF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Pirates", "03.Pirates\03.Pirates.csproj", "{DDDF20DB-AFFE-4728-A99C-A2F64D3B74B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FC22CDEC-B98A-4640-A732-E2BB6239FCF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC22CDEC-B98A-4640-A732-E2BB6239FCF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC22CDEC-B98A-4640-A732-E2BB6239FCF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDF20DB-AFFE-4728-A99C-A2F64D3B74B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDF20DB-AFFE-4728-A99C-A2F64D3B74B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDF20DB-AFFE-4728-A99C-A2F64D3B74B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDF20DB-AFFE-4728-A99C-A2F64D3B74B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,4 @@
-﻿
-
-
-namespace _03.HeroesOfCodeAndLogic7
+﻿namespace _03.HeroesOfCodeAndLogic7
 {
     internal class Program
     {

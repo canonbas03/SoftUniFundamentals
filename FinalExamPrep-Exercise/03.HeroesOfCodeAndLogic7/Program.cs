@@ -66,7 +66,7 @@ namespace _03.HeroesOfCodeAndLogic7
 
         public static void Heal(string heroName, int amount)
         {
-            int pointsBefore = heroes[heroName].ManaPoints;
+            int pointsBefore = heroes[heroName].HitPoints;
             heroes[heroName].HitPoints += amount;
             heroes[heroName].HitPoints = Math.Min(100, heroes[heroName].HitPoints);
             Console.WriteLine($"{heroName} healed for {Math.Min(100 - pointsBefore, amount)} HP!");
